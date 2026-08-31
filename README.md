@@ -1,13 +1,20 @@
 # PFA — Gestion des risques du système d'information avec module d'intelligence artificielle
 
-**Étudiant** : Soufiane ATRAG
-**Formation** : ENSA Khouribga — Cycle Ingénieur MGSI, 1ʳᵉ année
-**Cas d'étude** : Banque Al Amane (cas fictif réaliste, secteur bancaire marocain)
-**Méthode métier** : EBIOS Risk Manager / ISO 27005
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+**Étudiant** : Soufiane ATRAG  
+**Formation** : ENSA Khouribga — Cycle Ingénieur MGSI, 1ʳᵉ année  
+**Cas d'étude** : Banque Al Amane (cas fictif réaliste, secteur bancaire marocain)  
+**Méthode métier** : EBIOS Risk Manager / ISO 27005  
 **Date** : août 2026
 
 ---
- 
+
+## Licence
+
+Ce projet est publié sous licence **MIT**. Voir le fichier [`LICENSE`](./LICENSE) pour les détails.
+
+---
 ## Objet de cet envoi
 
 Ce dossier présente l'état d'avancement du volet technique du projet, **avant rédaction
