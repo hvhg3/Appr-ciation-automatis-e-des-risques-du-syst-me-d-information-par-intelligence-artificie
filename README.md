@@ -7,7 +7,7 @@
 **Date** : août 2026
 
 ---
-
+ 
 ## Objet de cet envoi
 
 Ce dossier présente l'état d'avancement du volet technique du projet, **avant rédaction
