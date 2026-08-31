@@ -17,8 +17,7 @@ Ce projet est publié sous licence **MIT**. Voir le fichier [`LICENSE`](./LICENS
 ---
 ## Objet de cet envoi
 
-Ce dossier présente l'état d'avancement du volet technique du projet, **avant rédaction
-du rapport**. Il contient deux livrables :
+Il contient deux livrables :
 
 1. le **modèle de classification** et sa démarche complète, sous forme de notebook ;
 2. la **plateforme web** qui l'exploite en conditions d'usage.
